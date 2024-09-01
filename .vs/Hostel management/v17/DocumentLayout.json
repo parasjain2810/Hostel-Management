@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\Dotnet\u0027\\Hostel management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|c:\\project\\dotnet\u0027\\hostel management\\hostel management\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|solutionrelative:hostel management\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|c:\\project\\dotnet\u0027\\hostel management\\hostel management\\hostelreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|solutionrelative:hostel management\\hostelreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|C:\\project\\Dotnet\u0027\\Hostel management\\hostel management\\hostelreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA86-4D08-405A-AF0D-02EA64631EE5}|C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management|solutionrelative:hostel management\\hostelreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\Default.aspx",
+              "RelativeDocumentMoniker": "Hostel management\\Default.aspx",
+              "ToolTip": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\Default.aspx",
+              "RelativeToolTip": "Hostel management\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T13:46:02.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HostelReport.aspx",
+              "DocumentMoniker": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\HostelReport.aspx",
+              "RelativeDocumentMoniker": "Hostel management\\HostelReport.aspx",
+              "ToolTip": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\HostelReport.aspx",
+              "RelativeToolTip": "Hostel management\\HostelReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T10:07:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostelReport.aspx.cs",
+              "DocumentMoniker": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\HostelReport.aspx.cs",
+              "RelativeDocumentMoniker": "Hostel management\\HostelReport.aspx.cs",
+              "ToolTip": "C:\\project\\Dotnet\u0027\\Hostel management\\Hostel management\\HostelReport.aspx.cs",
+              "RelativeToolTip": "Hostel management\\HostelReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:07:48.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
